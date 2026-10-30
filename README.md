@@ -47,14 +47,15 @@ d)	Steps to Clean Up (Terminate the Instance)
 1.	Go to EC2 Instances.
 2.	Select your instance → Instance State → Terminate.
 
+Snap Shot 1: Simple Storage Service (S3):
 
-Snap Shots:
- 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f07bcf3-46c4-4821-9434-f4573157fd9b" />
 
-Snap Shot 1: Simple Storage Service (S3)
  
 
 Snap Shot 2:  EC2 (Elastic Compute Cloud) – Instance
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cbac4d07-043f-4d2c-bb99-b27556427d5f" />
 
 
 
