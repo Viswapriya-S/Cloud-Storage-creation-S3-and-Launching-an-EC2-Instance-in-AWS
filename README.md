@@ -50,13 +50,13 @@ Click Create bucket at the bottom of the page.
 1.	Go to EC2 Instances.
 2.	Select your instance → Instance State → Terminate.
 
-Snap Shot 1: Simple Storage Service (S3):
+## Snap Shot 1: Simple Storage Service (S3):
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f07bcf3-46c4-4821-9434-f4573157fd9b" />
 
  
 
-Snap Shot 2:  EC2 (Elastic Compute Cloud) – Instance
+## Snap Shot 2:  EC2 (Elastic Compute Cloud) – Instance
 
 <img width="1920" height="1080" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/ed313885-8838-4c1c-a48a-7aa5bd169799" />
 
